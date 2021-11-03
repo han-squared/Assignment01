@@ -1,0 +1,30 @@
+.logo{
+    margin-left: 50px;
+}
+
+div.container{
+    margin: 200px;
+    margin-left: 500px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    
+   width: 400px;
+  height: 300px;
+  padding: 30px;  
+  border: solid green;
+  align-content: center;
+    
+}
+
+form.contain{
+    width: 300px;
+    
+    
+}
+
+
+
+button.button1{
+    background-color: green;
+    color: honeydew;
+}

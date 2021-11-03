@@ -1,0 +1,44 @@
+
+.logo{
+    margin-left: 50px;
+}
+
+img.image {
+    width: 100%;
+    padding: 70px;
+    height: 850px;
+    vertical-align: middle;
+    border: 0;
+}
+
+.img-fluid{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+@font-face {
+    font-family: system;
+    font-style: normal;
+    src: url('../font/Adlery-Swash-trial.ttf');
+  }
+
+  h3.heading{
+    font-family: system;
+    margin-top: 50px;
+    font-size: 40px;
+    text-align: center;
+  }
+
+  .m{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 50px 100px;
+}
+
+div.col{
+  margin-left: 60px;
+  margin-bottom: 50px;
+}

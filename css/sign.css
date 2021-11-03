@@ -1,0 +1,20 @@
+.logo{
+    margin-left: 50px;
+}
+
+.container{
+    border-style: solid;
+    border-color: green;
+    border-radius: 20px;
+    margin: 100px;
+    
+}
+
+form.contain{
+    padding: 100px;
+}
+
+button.button1{
+    background-color: green;
+    color: honeydew;
+}
