@@ -2,29 +2,28 @@
     margin-left: 50px;
 }
 
-div.container{
-    margin: 200px;
-    margin-left: 500px;
-    box-sizing: border-box;
+div.form
+{
+    display: block;
+    text-align: center;
+}
+
+form{
+    display: inline-block;
+    padding: 100px;
+    width: 700px;
+    border-style: solid;
+    border-color: rgb(4, 68, 4);
     border-radius: 20px;
-    
-   width: 400px;
-  height: 300px;
-  padding: 30px;  
-  border: solid green;
-  align-content: center;
-    
+    margin: 100px;
+    text-align: left;
 }
-
-form.contain{
-    width: 300px;
-    
-    
-}
-
-
 
 button.button1{
-    background-color: green;
+    background-color: rgb(4, 68, 4);
     color: honeydew;
+}
+
+.formText{
+    color: rgb(34, 25, 13);
 }
